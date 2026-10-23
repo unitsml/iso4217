@@ -1,0 +1,92 @@
+= iso4217
+
+ISO 4217 currency code database: maintained snapshots of the official lists
+published by https://www.six-group.com/en/products-services/financial-information/market-reference-data/data-standards.html[SIX Group],
+the ISO 4217 Maintenance Agency, with generated YAML in a stable schema.
+
+This repository is the *upstream ISO facts* layer. The curated UnitsML view
+(alongside `units.yaml` / `prefixes.yaml` in
+https://github.com/unitsml/unitsdb[unitsml/unitsdb]) adds what ISO does not
+publish: `cur:` ids, currency symbols (ISO 4217 has none — `€`, `A$` are
+curation), quantity/unit-system wiring and provenance notes. ISO updates
+flow in here mechanically; curation lands there through PR review.
+
+== Contents
+
+[cols="1,2,3"]
+|===
+|Path |Source |Contents
+
+|`raw/list-one.xml`
+|SIX "List One" (current currencies & funds), published 2026-09-17
+|Snapshot verbatim
+
+|`raw/list-three.xml`
+|SIX "List Three" (historic denominations), published 2026-01-01
+|Snapshot verbatim
+
+|`raw/list-two.doc`
+|SIX "List Two" (fund codes registered with the Maintenance Agency), Word format — no XML exists
+|Snapshot verbatim
+
+|`data/list-one.yaml`
+|generated
+|178 active codes: code, numeric, name, minor_unit_exponent (nil where ISO
+says N.A.), fund flag, issuing countries
+
+|`data/list-three.yaml`
+|generated
+|137 historic codes with withdrawal dates (ISO publishes plain YYYY-MM and
+range strings; kept verbatim)
+|===
+
+`list-two.doc` is kept as a source snapshot only: its fund codes are already
+present in list one (`IsFund="true"`); the per-fund responsible-institution
+detail awaits a Word-format converter.
+
+== Schema notes
+
+* `numeric` is a 3-digit string (leading zeros preserved); nil in historic
+  entries for denominations ISO registered without numerics (XFO, XFU, XRE).
+* `minor_unit_exponent` is nil where ISO publishes `N.A.` — nil means "not
+  applicable" (metals, funds of account, test/no-currency codes), which is
+  deliberately distinct from 0 ("no subdivisions", e.g. JPY).
+* Numerics repeat legitimately across historic entries — a country's
+  successive currencies share one numeric; uniqueness is an active-list
+  invariant only.
+
+== Regenerating
+
+The source of truth is the snapshot in `raw/`; `data/` is a pure function of
+it (sorted output, no timestamps):
+
+[source,sh]
+----
+rake convert    # regenerate data/ from raw/ + validate
+rake check      # fail if committed data/ differs from a fresh regeneration
+----
+
+To pull a new ISO edition:
+
+[source,sh]
+----
+./scripts/fetch.sh   # re-download all three lists from six-group.com
+rake convert         # regenerate + validate
+git diff data/       # review the delta — this is the news
+# then open a PR
+----
+
+== Validation invariants
+
+`scripts/validate.rb` enforces: 3-letter uppercase codes unique per list;
+list-one numerics required, unique, in lockstep with codes; minor-unit
+exponents in 0–4 or nil; fund flags present; historic withdrawal dates
+present; source blocks complete; cross-list numeric lockstep. CI runs the
+same check on every push and PR.
+
+== Consumers
+
+* https://github.com/unitsml/unitsdb[unitsml/unitsdb] — the `currencies.yaml`
+  collection. Verified 2026-10-23: its 178 codes match `data/list-one.yaml`
+  exactly; the known curation delta is that unitsdb records `0` (integer
+  schema) where ISO publishes `N.A.` for the 13 metals/funds/special codes.

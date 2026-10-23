@@ -1,0 +1,859 @@
+---
+source:
+  list: three
+  title: Historic denominations of currencies & funds
+  publisher: SIX Interbank Clearing Ltd (ISO 4217 Maintenance Agency)
+  published: '2026-01-01'
+  url: https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-three.xml
+entries:
+- code: ADP
+  numeric: '020'
+  name: Andorran Peseta
+  withdrawn: 2003-07
+  countries:
+  - ANDORRA
+- code: AFA
+  numeric: '004'
+  name: Afghani
+  withdrawn: 2003-01
+  countries:
+  - AFGHANISTAN
+- code: ALK
+  numeric: '008'
+  name: Old Lek
+  withdrawn: 1989-12
+  countries:
+  - ALBANIA
+- code: ANG
+  numeric: '532'
+  name: Netherlands Antillean Guilder
+  withdrawn: 2025-03
+  countries:
+  - CURAÇAO
+  - NETHERLANDS ANTILLES
+  - SINT MAARTEN (DUTCH PART)
+- code: AOK
+  numeric: '024'
+  name: Kwanza
+  withdrawn: 1991-03
+  countries:
+  - ANGOLA
+- code: AON
+  numeric: '024'
+  name: New Kwanza
+  withdrawn: 2000-02
+  countries:
+  - ANGOLA
+- code: AOR
+  numeric: '982'
+  name: Kwanza Reajustado
+  withdrawn: 2000-02
+  countries:
+  - ANGOLA
+- code: ARA
+  numeric: '032'
+  name: Austral
+  withdrawn: 1992-01
+  countries:
+  - ARGENTINA
+- code: ARP
+  numeric: '032'
+  name: Peso Argentino
+  withdrawn: 1985-07
+  countries:
+  - ARGENTINA
+- code: ARY
+  numeric: '032'
+  name: Peso
+  withdrawn: 1989 to 1990
+  countries:
+  - ARGENTINA
+- code: ATS
+  numeric: '040'
+  name: Schilling
+  withdrawn: 2002-03
+  countries:
+  - AUSTRIA
+- code: AYM
+  numeric: '945'
+  name: Azerbaijan Manat
+  withdrawn: 2005-10
+  countries:
+  - AZERBAIJAN
+- code: AZM
+  numeric: '031'
+  name: Azerbaijanian Manat
+  withdrawn: 2005-12
+  countries:
+  - AZERBAIJAN
+- code: BAD
+  numeric: '070'
+  name: Dinar
+  withdrawn: 1998-07
+  countries:
+  - BOSNIA AND HERZEGOVINA
+- code: BEC
+  numeric: '993'
+  name: Convertible Franc
+  withdrawn: 1990-03
+  countries:
+  - BELGIUM
+- code: BEF
+  numeric: '056'
+  name: Belgian Franc
+  withdrawn: 2002-03
+  countries:
+  - BELGIUM
+- code: BEL
+  numeric: '992'
+  name: Financial Franc
+  withdrawn: 1990-03
+  countries:
+  - BELGIUM
+- code: BGJ
+  numeric: '100'
+  name: Lev A/52
+  withdrawn: 1989 to 1990
+  countries:
+  - BULGARIA
+- code: BGK
+  numeric: '100'
+  name: Lev A/62
+  withdrawn: 1989 to 1990
+  countries:
+  - BULGARIA
+- code: BGL
+  numeric: '100'
+  name: Lev
+  withdrawn: 2003-11
+  countries:
+  - BULGARIA
+- code: BGN
+  numeric: '975'
+  name: Bulgarian Lev
+  withdrawn: 2026-01
+  countries:
+  - BULGARIA
+- code: BOP
+  numeric: '068'
+  name: Peso boliviano
+  withdrawn: 1987-02
+  countries:
+  - BOLIVIA
+- code: BRB
+  numeric: '076'
+  name: Cruzeiro
+  withdrawn: 1986-03
+  countries:
+  - BRAZIL
+- code: BRC
+  numeric: '076'
+  name: Cruzado
+  withdrawn: 1989-02
+  countries:
+  - BRAZIL
+- code: BRE
+  numeric: '076'
+  name: Cruzeiro
+  withdrawn: 1993-03
+  countries:
+  - BRAZIL
+- code: BRN
+  numeric: '076'
+  name: New Cruzado
+  withdrawn: 1990-03
+  countries:
+  - BRAZIL
+- code: BRR
+  numeric: '987'
+  name: Cruzeiro Real
+  withdrawn: 1994-07
+  countries:
+  - BRAZIL
+- code: BUK
+  numeric: '104'
+  name: Kyat
+  withdrawn: 1990-02
+  countries:
+  - BURMA 
+- code: BYB
+  numeric: '112'
+  name: Belarusian Ruble
+  withdrawn: 2001-01
+  countries:
+  - BELARUS
+- code: BYR
+  numeric: '974'
+  name: Belarusian Ruble
+  withdrawn: 2017-01
+  countries:
+  - BELARUS
+- code: CHC
+  numeric: '948'
+  name: WIR Franc (for electronic)
+  withdrawn: 2004-11
+  countries:
+  - SWITZERLAND
+- code: CSD
+  numeric: '891'
+  name: Serbian Dinar
+  withdrawn: 2006-10
+  countries:
+  - SERBIA AND MONTENEGRO
+- code: CSJ
+  numeric: '203'
+  name: Krona A/53
+  withdrawn: 1989 to 1990
+  countries:
+  - CZECHOSLOVAKIA
+- code: CSK
+  numeric: '200'
+  name: Koruna
+  withdrawn: 1993-03
+  countries:
+  - CZECHOSLOVAKIA
+- code: CUC
+  numeric: '931'
+  name: Peso Convertible
+  withdrawn: 2021-06
+  countries:
+  - CUBA
+- code: CYP
+  numeric: '196'
+  name: Cyprus Pound
+  withdrawn: 2008-01
+  countries:
+  - CYPRUS
+- code: DDM
+  numeric: '278'
+  name: Mark der DDR
+  withdrawn: 1990-07 to 1990-09
+  countries:
+  - GERMAN DEMOCRATIC REPUBLIC
+- code: DEM
+  numeric: '276'
+  name: Deutsche Mark
+  withdrawn: 2002-03
+  countries:
+  - GERMANY
+- code: ECS
+  numeric: '218'
+  name: Sucre
+  withdrawn: 2000-09
+  countries:
+  - ECUADOR
+- code: ECV
+  numeric: '983'
+  name: Unidad de Valor Constante (UVC)
+  withdrawn: 2000-09
+  countries:
+  - ECUADOR
+- code: EEK
+  numeric: '233'
+  name: Kroon
+  withdrawn: 2011-01
+  countries:
+  - ESTONIA
+- code: ESA
+  numeric: '996'
+  name: Spanish Peseta
+  withdrawn: 1978 to 1981
+  countries:
+  - SPAIN
+- code: ESB
+  numeric: '995'
+  name: '"A" Account (convertible Peseta Account)'
+  withdrawn: 1994-12
+  countries:
+  - SPAIN
+- code: ESP
+  numeric: '724'
+  name: Spanish Peseta
+  withdrawn: 2002-03
+  countries:
+  - ANDORRA
+  - SPAIN
+- code: EUR
+  numeric: '978'
+  name: Euro
+  withdrawn: 2006-10
+  countries:
+  - SERBIA AND MONTENEGRO
+- code: FIM
+  numeric: '246'
+  name: Markka
+  withdrawn: 2002-03
+  countries:
+  - FINLAND
+  - ÅLAND ISLANDS
+- code: FRF
+  numeric: '250'
+  name: French Franc
+  withdrawn: 2002-03
+  countries:
+  - ANDORRA
+  - FRANCE
+  - FRENCH  GUIANA
+  - FRENCH SOUTHERN TERRITORIES
+  - GUADELOUPE
+  - MARTINIQUE
+  - MAYOTTE
+  - MONACO
+  - RÉUNION
+  - SAINT MARTIN
+  - SAINT PIERRE AND MIQUELON
+  - SAINT-BARTHÉLEMY
+- code: GEK
+  numeric: '268'
+  name: Georgian Coupon
+  withdrawn: 1995-10
+  countries:
+  - GEORGIA
+- code: GHC
+  numeric: '288'
+  name: Cedi
+  withdrawn: 2008-01
+  countries:
+  - GHANA
+- code: GHP
+  numeric: '939'
+  name: Ghana Cedi
+  withdrawn: 2007-06
+  countries:
+  - GHANA
+- code: GNE
+  numeric: '324'
+  name: Syli
+  withdrawn: 1989-12
+  countries:
+  - GUINEA
+- code: GNS
+  numeric: '324'
+  name: Syli
+  withdrawn: 1986-02
+  countries:
+  - GUINEA
+- code: GQE
+  numeric: '226'
+  name: Ekwele
+  withdrawn: 1986-06
+  countries:
+  - EQUATORIAL GUINEA
+- code: GRD
+  numeric: '300'
+  name: Drachma
+  withdrawn: 2002-03
+  countries:
+  - GREECE
+- code: GWE
+  numeric: '624'
+  name: Guinea Escudo
+  withdrawn: 1978 to 1981
+  countries:
+  - GUINEA-BISSAU
+- code: GWP
+  numeric: '624'
+  name: Guinea-Bissau Peso
+  withdrawn: 1997-05
+  countries:
+  - GUINEA-BISSAU
+- code: HRD
+  numeric: '191'
+  name: Croatian Dinar
+  withdrawn: 1995-01
+  countries:
+  - CROATIA
+- code: HRK
+  numeric: '191'
+  name: Croatian Kuna
+  withdrawn: 2015-06
+  countries:
+  - CROATIA
+- code: IDR
+  numeric: '360'
+  name: Rupiah
+  withdrawn: 2002-07
+  countries:
+  - TIMOR-LESTE
+- code: IEP
+  numeric: '372'
+  name: Irish Pound
+  withdrawn: 2002-03
+  countries:
+  - IRELAND
+- code: ILP
+  numeric: '376'
+  name: Pound
+  withdrawn: 1978 to 1981
+  countries:
+  - ISRAEL
+- code: ILR
+  numeric: '376'
+  name: Old Shekel
+  withdrawn: 1989 to 1990
+  countries:
+  - ISRAEL
+- code: ISJ
+  numeric: '352'
+  name: Old Krona
+  withdrawn: 1989 to 1990
+  countries:
+  - ICELAND
+- code: ITL
+  numeric: '380'
+  name: Italian Lira
+  withdrawn: 2002-03
+  countries:
+  - HOLY SEE (VATICAN CITY STATE)
+  - ITALY
+  - SAN MARINO
+- code: LAJ
+  numeric: '418'
+  name: Pathet Lao Kip
+  withdrawn: 1979-12
+  countries:
+  - LAO
+- code: LSM
+  numeric: '426'
+  name: Loti
+  withdrawn: 1985-05
+  countries:
+  - LESOTHO
+- code: LTL
+  numeric: '440'
+  name: Lithuanian Litas
+  withdrawn: 2014-12
+  countries:
+  - LITHUANIA
+- code: LTT
+  numeric: '440'
+  name: Talonas
+  withdrawn: 1993-07
+  countries:
+  - LITHUANIA
+- code: LUC
+  numeric: '989'
+  name: Luxembourg Convertible Franc
+  withdrawn: 1990-03
+  countries:
+  - LUXEMBOURG
+- code: LUF
+  numeric: '442'
+  name: Luxembourg Franc
+  withdrawn: 2002-03
+  countries:
+  - LUXEMBOURG
+- code: LUL
+  numeric: '988'
+  name: Luxembourg Financial Franc
+  withdrawn: 1990-03
+  countries:
+  - LUXEMBOURG
+- code: LVL
+  numeric: '428'
+  name: Latvian Lats
+  withdrawn: 2014-01
+  countries:
+  - LATVIA
+- code: LVR
+  numeric: '428'
+  name: Latvian Ruble
+  withdrawn: 1994-12
+  countries:
+  - LATVIA
+- code: MGF
+  numeric: '450'
+  name: Malagasy Franc
+  withdrawn: 2004-12
+  countries:
+  - MADAGASCAR
+- code: MLF
+  numeric: '466'
+  name: Mali Franc
+  withdrawn: 1984-11
+  countries:
+  - MALI
+- code: MRO
+  numeric: '478'
+  name: Ouguiya
+  withdrawn: 2017-12
+  countries:
+  - MAURITANIA
+- code: MTL
+  numeric: '470'
+  name: Maltese Lira
+  withdrawn: 2008-01
+  countries:
+  - MALTA
+- code: MTP
+  numeric: '470'
+  name: Maltese Pound
+  withdrawn: 1983-06
+  countries:
+  - MALTA
+- code: MVQ
+  numeric: '462'
+  name: Maldive Rupee
+  withdrawn: 1989-12
+  countries:
+  - MALDIVES
+- code: MWK
+  numeric: '454'
+  name: Kwacha
+  withdrawn: 2016-02
+  countries:
+  - MALAWI
+- code: MXP
+  numeric: '484'
+  name: Mexican Peso
+  withdrawn: 1993-01
+  countries:
+  - MEXICO
+- code: MZE
+  numeric: '508'
+  name: Mozambique Escudo
+  withdrawn: 1978 to 1981
+  countries:
+  - MOZAMBIQUE
+- code: MZM
+  numeric: '508'
+  name: Mozambique Metical
+  withdrawn: 2006-06
+  countries:
+  - MOZAMBIQUE
+- code: NIC
+  numeric: '558'
+  name: Cordoba
+  withdrawn: 1990-10
+  countries:
+  - NICARAGUA
+- code: NLG
+  numeric: '528'
+  name: Netherlands Guilder
+  withdrawn: 2002-03
+  countries:
+  - NETHERLANDS
+- code: PEH
+  numeric: '604'
+  name: Sol
+  withdrawn: 1989 to 1990
+  countries:
+  - PERU
+- code: PEI
+  numeric: '604'
+  name: Inti
+  withdrawn: 1991-07
+  countries:
+  - PERU
+- code: PEN
+  numeric: '604'
+  name: 'Nuevo Sol '
+  withdrawn: 2015-12
+  countries:
+  - PERU
+- code: PES
+  numeric: '604'
+  name: Sol
+  withdrawn: 1986-02
+  countries:
+  - PERU
+- code: PLZ
+  numeric: '616'
+  name: Zloty
+  withdrawn: 1997-01
+  countries:
+  - POLAND
+- code: PTE
+  numeric: '620'
+  name: Portuguese Escudo
+  withdrawn: 2002-03
+  countries:
+  - PORTUGAL
+- code: RHD
+  numeric: '716'
+  name: Rhodesian Dollar
+  withdrawn: 1978 to 1981
+  countries:
+  - SOUTHERN RHODESIA 
+- code: ROK
+  numeric: '642'
+  name: Leu A/52
+  withdrawn: 1989 to 1990
+  countries:
+  - ROMANIA
+- code: ROL
+  numeric: '642'
+  name: Old Leu
+  withdrawn: 2005-06
+  countries:
+  - ROMANIA
+- code: RON
+  numeric: '946'
+  name: 'New Romanian Leu '
+  withdrawn: 2015-06
+  countries:
+  - ROMANIA
+- code: RUR
+  numeric: '810'
+  name: Russian Ruble
+  withdrawn: 1994-08
+  countries:
+  - ARMENIA
+  - AZERBAIJAN
+  - BELARUS
+  - GEORGIA
+  - KAZAKHSTAN
+  - KYRGYZSTAN
+  - MOLDOVA, REPUBLIC OF
+  - RUSSIAN FEDERATION
+  - TAJIKISTAN
+  - TURKMENISTAN
+  - UZBEKISTAN
+- code: SDD
+  numeric: '736'
+  name: Sudanese Dinar
+  withdrawn: 2007-07
+  countries:
+  - SUDAN
+- code: SDG
+  numeric: '938'
+  name: Sudanese Pound
+  withdrawn: 2012-09
+  countries:
+  - SOUTH SUDAN
+- code: SDP
+  numeric: '736'
+  name: Sudanese Pound
+  withdrawn: 1998-06
+  countries:
+  - SUDAN
+- code: SIT
+  numeric: '705'
+  name: Tolar
+  withdrawn: 2007-01
+  countries:
+  - SLOVENIA
+- code: SKK
+  numeric: '703'
+  name: Slovak Koruna
+  withdrawn: 2009-01
+  countries:
+  - SLOVAKIA
+- code: SLL
+  numeric: '694'
+  name: Leone
+  withdrawn: 2023-12
+  countries:
+  - SIERRA LEONE
+- code: SRG
+  numeric: '740'
+  name: Surinam Guilder
+  withdrawn: 2003-12
+  countries:
+  - SURINAME
+- code: STD
+  numeric: '678'
+  name: Dobra
+  withdrawn: 2017-12
+  countries:
+  - SAO TOME AND PRINCIPE
+- code: SUR
+  numeric: '810'
+  name: Rouble
+  withdrawn: 1990-12
+  countries:
+  - UNION OF SOVIET SOCIALIST REPUBLICS
+- code: SZL
+  numeric: '748'
+  name: Lilangeni
+  withdrawn: 2018-08
+  countries:
+  - SWAZILAND
+- code: TJR
+  numeric: '762'
+  name: Tajik Ruble
+  withdrawn: 2001-04
+  countries:
+  - TAJIKISTAN
+- code: TMM
+  numeric: '795'
+  name: Turkmenistan Manat
+  withdrawn: 2009-01
+  countries:
+  - TURKMENISTAN
+- code: TPE
+  numeric: '626'
+  name: Timor Escudo
+  withdrawn: 2002-11
+  countries:
+  - TIMOR-LESTE
+- code: TRL
+  numeric: '792'
+  name: Old Turkish Lira
+  withdrawn: 2005-12
+  countries:
+  - TURKEY
+- code: TRY
+  numeric: '949'
+  name: New Turkish Lira
+  withdrawn: 2009-01
+  countries:
+  - TURKEY
+- code: UAK
+  numeric: '804'
+  name: Karbovanet
+  withdrawn: 1996-09
+  countries:
+  - UKRAINE
+- code: UGS
+  numeric: '800'
+  name: Uganda Shilling
+  withdrawn: 1987-05
+  countries:
+  - UGANDA
+- code: UGW
+  numeric: '800'
+  name: Old Shilling
+  withdrawn: 1989 to 1990
+  countries:
+  - UGANDA
+- code: USS
+  numeric: '998'
+  name: US Dollar (Same day)
+  withdrawn: 2014-03
+  countries:
+  - UNITED STATES
+- code: UYN
+  numeric: '858'
+  name: Old Uruguay Peso
+  withdrawn: 1989-12
+  countries:
+  - URUGUAY
+- code: UYP
+  numeric: '858'
+  name: Uruguayan Peso
+  withdrawn: 1993-03
+  countries:
+  - URUGUAY
+- code: VEB
+  numeric: '862'
+  name: Bolivar
+  withdrawn: 2008-01
+  countries:
+  - VENEZUELA
+- code: VEF
+  numeric: '937'
+  name: Bolivar Fuerte
+  withdrawn: 2011-12
+  countries:
+  - VENEZUELA
+  - VENEZUELA (BOLIVARIAN REPUBLIC OF)
+- code: VNC
+  numeric: '704'
+  name: Old Dong
+  withdrawn: 1989-1990
+  countries:
+  - VIETNAM
+- code: XEU
+  numeric: '954'
+  name: European Currency Unit (E.C.U)
+  withdrawn: 1999-01
+  countries:
+  - EUROPEAN MONETARY CO-OPERATION FUND (EMCF)
+- code: XFO
+  numeric:
+  name: Gold-Franc
+  withdrawn: 2006-10
+  countries:
+  - ZZ01_Gold-Franc
+- code: XFU
+  numeric:
+  name: UIC-Franc
+  withdrawn: 2013-11
+  countries:
+  - ZZ05_UIC-Franc
+- code: XRE
+  numeric:
+  name: RINET Funds Code
+  withdrawn: 1999-11
+  countries:
+  - ZZ02_RINET Funds Code
+- code: YDD
+  numeric: '720'
+  name: Yemeni Dinar
+  withdrawn: 1991-09
+  countries:
+  - YEMEN, DEMOCRATIC
+- code: YUD
+  numeric: '890'
+  name: New Yugoslavian Dinar
+  withdrawn: 1990-01
+  countries:
+  - YUGOSLAVIA
+- code: YUM
+  numeric: '891'
+  name: New Dinar
+  withdrawn: 2003-07
+  countries:
+  - YUGOSLAVIA
+- code: YUN
+  numeric: '890'
+  name: Yugoslavian Dinar
+  withdrawn: 1995-11
+  countries:
+  - YUGOSLAVIA
+- code: ZAL
+  numeric: '991'
+  name: Financial Rand
+  withdrawn: 1995-03
+  countries:
+  - LESOTHO
+  - SOUTH AFRICA
+- code: ZMK
+  numeric: '894'
+  name: Zambian Kwacha
+  withdrawn: 2012-12
+  countries:
+  - ZAMBIA
+- code: ZRN
+  numeric: '180'
+  name: New Zaire
+  withdrawn: 1999-06
+  countries:
+  - ZAIRE
+- code: ZRZ
+  numeric: '180'
+  name: Zaire
+  withdrawn: 1994-02
+  countries:
+  - ZAIRE
+- code: ZWC
+  numeric: '716'
+  name: Rhodesian Dollar
+  withdrawn: 1989-12
+  countries:
+  - ZIMBABWE
+- code: ZWD
+  numeric: '716'
+  name: Zimbabwe Dollar (old)
+  withdrawn: 2006-08
+  countries:
+  - ZIMBABWE
+- code: ZWL
+  numeric: '932'
+  name: Zimbabwe Dollar
+  withdrawn: 2024-09
+  countries:
+  - ZIMBABWE
+- code: ZWN
+  numeric: '942'
+  name: Zimbabwe Dollar (new)
+  withdrawn: 2006-09
+  countries:
+  - ZIMBABWE
+- code: ZWR
+  numeric: '935'
+  name: Zimbabwe Dollar
+  withdrawn: 2009-06
+  countries:
+  - ZIMBABWE

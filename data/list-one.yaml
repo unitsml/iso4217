@@ -1,0 +1,1353 @@
+---
+source:
+  list: one
+  title: Current currencies & funds
+  publisher: SIX Interbank Clearing Ltd (ISO 4217 Maintenance Agency)
+  published: '2026-09-17'
+  url: https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/lists/list-one.xml
+entries:
+- code: AED
+  numeric: '784'
+  name: UAE Dirham
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - UNITED ARAB EMIRATES (THE)
+- code: AFN
+  numeric: '971'
+  name: Afghani
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - AFGHANISTAN
+- code: ALL
+  numeric: '008'
+  name: Lek
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ALBANIA
+- code: AMD
+  numeric: '051'
+  name: Armenian Dram
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ARMENIA
+- code: AOA
+  numeric: '973'
+  name: Kwanza
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ANGOLA
+- code: ARS
+  numeric: '032'
+  name: Argentine Peso
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ARGENTINA
+- code: AUD
+  numeric: '036'
+  name: Australian Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - AUSTRALIA
+  - CHRISTMAS ISLAND
+  - COCOS (KEELING) ISLANDS (THE)
+  - HEARD ISLAND AND McDONALD ISLANDS
+  - KIRIBATI
+  - NAURU
+  - NORFOLK ISLAND
+  - TUVALU
+- code: AWG
+  numeric: '533'
+  name: Aruban Florin
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ARUBA
+- code: AZN
+  numeric: '944'
+  name: Azerbaijan Manat
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - AZERBAIJAN
+- code: BAM
+  numeric: '977'
+  name: Convertible Mark
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BOSNIA AND HERZEGOVINA
+- code: BBD
+  numeric: '052'
+  name: Barbados Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BARBADOS
+- code: BDT
+  numeric: '050'
+  name: Taka
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BANGLADESH
+- code: BHD
+  numeric: '048'
+  name: Bahraini Dinar
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - BAHRAIN
+- code: BIF
+  numeric: '108'
+  name: Burundi Franc
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - BURUNDI
+- code: BMD
+  numeric: '060'
+  name: Bermudian Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BERMUDA
+- code: BND
+  numeric: '096'
+  name: Brunei Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BRUNEI DARUSSALAM
+- code: BOB
+  numeric: '068'
+  name: Boliviano
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BOLIVIA (PLURINATIONAL STATE OF)
+- code: BOV
+  numeric: '984'
+  name: Mvdol
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - BOLIVIA (PLURINATIONAL STATE OF)
+- code: BRL
+  numeric: '986'
+  name: Brazilian Real
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BRAZIL
+- code: BSD
+  numeric: '044'
+  name: Bahamian Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BAHAMAS (THE)
+- code: BTN
+  numeric: '064'
+  name: Ngultrum
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BHUTAN
+- code: BWP
+  numeric: '072'
+  name: Pula
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BOTSWANA
+- code: BYN
+  numeric: '933'
+  name: Belarusian Ruble
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BELARUS
+- code: BZD
+  numeric: '084'
+  name: Belize Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BELIZE
+- code: CAD
+  numeric: '124'
+  name: Canadian Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CANADA
+- code: CDF
+  numeric: '976'
+  name: Congolese Franc
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CONGO (THE DEMOCRATIC REPUBLIC OF THE)
+- code: CHE
+  numeric: '947'
+  name: WIR Euro
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - SWITZERLAND
+- code: CHF
+  numeric: '756'
+  name: Swiss Franc
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - LIECHTENSTEIN
+  - SWITZERLAND
+- code: CHW
+  numeric: '948'
+  name: WIR Franc
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - SWITZERLAND
+- code: CLF
+  numeric: '990'
+  name: Unidad de Fomento
+  minor_unit_exponent: 4
+  fund: true
+  countries:
+  - CHILE
+- code: CLP
+  numeric: '152'
+  name: Chilean Peso
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - CHILE
+- code: CNY
+  numeric: '156'
+  name: Yuan Renminbi
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CHINA
+- code: COP
+  numeric: '170'
+  name: Colombian Peso
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - COLOMBIA
+- code: COU
+  numeric: '970'
+  name: Unidad de Valor Real
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - COLOMBIA
+- code: CRC
+  numeric: '188'
+  name: Costa Rican Colon
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - COSTA RICA
+- code: CUP
+  numeric: '192'
+  name: Cuban Peso
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CUBA
+- code: CVE
+  numeric: '132'
+  name: Cabo Verde Escudo
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CABO VERDE
+- code: CZK
+  numeric: '203'
+  name: Czech Koruna
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CZECHIA
+- code: DJF
+  numeric: '262'
+  name: Djibouti Franc
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - DJIBOUTI
+- code: DKK
+  numeric: '208'
+  name: Danish Krone
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - DENMARK
+  - FAROE ISLANDS (THE)
+  - GREENLAND
+- code: DOP
+  numeric: '214'
+  name: Dominican Peso
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - DOMINICAN REPUBLIC (THE)
+- code: DZD
+  numeric: '012'
+  name: Algerian Dinar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ALGERIA
+- code: EGP
+  numeric: '818'
+  name: Egyptian Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - EGYPT
+- code: ERN
+  numeric: '232'
+  name: Nakfa
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ERITREA
+- code: ETB
+  numeric: '230'
+  name: Ethiopian Birr
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ETHIOPIA
+- code: EUR
+  numeric: '978'
+  name: Euro
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ANDORRA
+  - AUSTRIA
+  - BELGIUM
+  - BULGARIA
+  - CROATIA
+  - CYPRUS
+  - ESTONIA
+  - EUROPEAN UNION
+  - FINLAND
+  - FRANCE
+  - FRENCH GUIANA
+  - FRENCH SOUTHERN TERRITORIES (THE)
+  - GERMANY
+  - GREECE
+  - GUADELOUPE
+  - HOLY SEE (THE)
+  - IRELAND
+  - ITALY
+  - LATVIA
+  - LITHUANIA
+  - LUXEMBOURG
+  - MALTA
+  - MARTINIQUE
+  - MAYOTTE
+  - MONACO
+  - MONTENEGRO
+  - NETHERLANDS (THE)
+  - PORTUGAL
+  - RÉUNION
+  - SAINT BARTHÉLEMY
+  - SAINT MARTIN (FRENCH PART)
+  - SAINT PIERRE AND MIQUELON
+  - SAN MARINO
+  - SLOVAKIA
+  - SLOVENIA
+  - SPAIN
+  - ÅLAND ISLANDS
+- code: FJD
+  numeric: '242'
+  name: Fiji Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - FIJI
+- code: FKP
+  numeric: '238'
+  name: Falkland Islands Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - FALKLAND ISLANDS (THE) [MALVINAS]
+- code: GBP
+  numeric: '826'
+  name: Pound Sterling
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GUERNSEY
+  - ISLE OF MAN
+  - JERSEY
+  - UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)
+- code: GEL
+  numeric: '981'
+  name: Lari
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GEORGIA
+- code: GHS
+  numeric: '936'
+  name: Ghana Cedi
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GHANA
+- code: GIP
+  numeric: '292'
+  name: Gibraltar Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GIBRALTAR
+- code: GMD
+  numeric: '270'
+  name: Dalasi
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GAMBIA (THE)
+- code: GNF
+  numeric: '324'
+  name: Guinean Franc
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - GUINEA
+- code: GTQ
+  numeric: '320'
+  name: Quetzal
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GUATEMALA
+- code: GYD
+  numeric: '328'
+  name: Guyana Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - GUYANA
+- code: HKD
+  numeric: '344'
+  name: Hong Kong Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - HONG KONG
+- code: HNL
+  numeric: '340'
+  name: Lempira
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - HONDURAS
+- code: HTG
+  numeric: '332'
+  name: Gourde
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - HAITI
+- code: HUF
+  numeric: '348'
+  name: Forint
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - HUNGARY
+- code: IDR
+  numeric: '360'
+  name: Rupiah
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - INDONESIA
+- code: ILS
+  numeric: '376'
+  name: New Israeli Sheqel
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ISRAEL
+- code: INR
+  numeric: '356'
+  name: Indian Rupee
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BHUTAN
+  - INDIA
+- code: IQD
+  numeric: '368'
+  name: Iraqi Dinar
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - IRAQ
+- code: IRR
+  numeric: '364'
+  name: Iranian Rial
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - IRAN (ISLAMIC REPUBLIC OF)
+- code: ISK
+  numeric: '352'
+  name: Iceland Krona
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - ICELAND
+- code: JMD
+  numeric: '388'
+  name: Jamaican Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - JAMAICA
+- code: JOD
+  numeric: '400'
+  name: Jordanian Dinar
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - JORDAN
+- code: JPY
+  numeric: '392'
+  name: Yen
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - JAPAN
+- code: KES
+  numeric: '404'
+  name: Kenyan Shilling
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - KENYA
+- code: KGS
+  numeric: '417'
+  name: Som
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - KYRGYZSTAN
+- code: KHR
+  numeric: '116'
+  name: Riel
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CAMBODIA
+- code: KMF
+  numeric: '174'
+  name: 'Comorian Franc '
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - COMOROS (THE)
+- code: KPW
+  numeric: '408'
+  name: North Korean Won
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)
+- code: KRW
+  numeric: '410'
+  name: Won
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - KOREA (THE REPUBLIC OF)
+- code: KWD
+  numeric: '414'
+  name: Kuwaiti Dinar
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - KUWAIT
+- code: KYD
+  numeric: '136'
+  name: Cayman Islands Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CAYMAN ISLANDS (THE)
+- code: KZT
+  numeric: '398'
+  name: Tenge
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - KAZAKHSTAN
+- code: LAK
+  numeric: '418'
+  name: Lao Kip
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)
+- code: LBP
+  numeric: '422'
+  name: Lebanese Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - LEBANON
+- code: LKR
+  numeric: '144'
+  name: Sri Lanka Rupee
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SRI LANKA
+- code: LRD
+  numeric: '430'
+  name: Liberian Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - LIBERIA
+- code: LSL
+  numeric: '426'
+  name: Loti
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - LESOTHO
+- code: LYD
+  numeric: '434'
+  name: Libyan Dinar
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - LIBYA
+- code: MAD
+  numeric: '504'
+  name: Moroccan Dirham
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MOROCCO
+  - WESTERN SAHARA
+- code: MDL
+  numeric: '498'
+  name: Moldovan Leu
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MOLDOVA (THE REPUBLIC OF)
+- code: MGA
+  numeric: '969'
+  name: Malagasy Ariary
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MADAGASCAR
+- code: MKD
+  numeric: '807'
+  name: Denar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - NORTH MACEDONIA
+- code: MMK
+  numeric: '104'
+  name: Kyat
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MYANMAR
+- code: MNT
+  numeric: '496'
+  name: Tugrik
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MONGOLIA
+- code: MOP
+  numeric: '446'
+  name: Pataca
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MACAO
+- code: MRU
+  numeric: '929'
+  name: Ouguiya
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MAURITANIA
+- code: MUR
+  numeric: '480'
+  name: Mauritius Rupee
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MAURITIUS
+- code: MVR
+  numeric: '462'
+  name: Rufiyaa
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MALDIVES
+- code: MWK
+  numeric: '454'
+  name: Malawi Kwacha
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MALAWI
+- code: MXN
+  numeric: '484'
+  name: Mexican Peso
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MEXICO
+- code: MXV
+  numeric: '979'
+  name: Mexican Unidad de Inversion (UDI)
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - MEXICO
+- code: MYR
+  numeric: '458'
+  name: Malaysian Ringgit
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MALAYSIA
+- code: MZN
+  numeric: '943'
+  name: Mozambique Metical
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - MOZAMBIQUE
+- code: NAD
+  numeric: '516'
+  name: Namibia Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - NAMIBIA
+- code: NGN
+  numeric: '566'
+  name: Naira
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - NIGERIA
+- code: NIO
+  numeric: '558'
+  name: Cordoba Oro
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - NICARAGUA
+- code: NOK
+  numeric: '578'
+  name: Norwegian Krone
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - BOUVET ISLAND
+  - NORWAY
+  - SVALBARD AND JAN MAYEN
+- code: NPR
+  numeric: '524'
+  name: Nepalese Rupee
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - NEPAL
+- code: NZD
+  numeric: '554'
+  name: New Zealand Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - COOK ISLANDS (THE)
+  - NEW ZEALAND
+  - NIUE
+  - PITCAIRN
+  - TOKELAU
+- code: OMR
+  numeric: '512'
+  name: Rial Omani
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - OMAN
+- code: PAB
+  numeric: '590'
+  name: Balboa
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - PANAMA
+- code: PEN
+  numeric: '604'
+  name: Sol
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - PERU
+- code: PGK
+  numeric: '598'
+  name: Kina
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - PAPUA NEW GUINEA
+- code: PHP
+  numeric: '608'
+  name: Philippine Peso
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - PHILIPPINES (THE)
+- code: PKR
+  numeric: '586'
+  name: Pakistan Rupee
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - PAKISTAN
+- code: PLN
+  numeric: '985'
+  name: Zloty
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - POLAND
+- code: PYG
+  numeric: '600'
+  name: Guarani
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - PARAGUAY
+- code: QAR
+  numeric: '634'
+  name: Qatari Rial
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - QATAR
+- code: RON
+  numeric: '946'
+  name: Romanian Leu
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ROMANIA
+- code: RSD
+  numeric: '941'
+  name: Serbian Dinar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SERBIA
+- code: RUB
+  numeric: '643'
+  name: Russian Ruble
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - RUSSIAN FEDERATION (THE)
+- code: RWF
+  numeric: '646'
+  name: Rwanda Franc
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - RWANDA
+- code: SAR
+  numeric: '682'
+  name: Saudi Riyal
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SAUDI ARABIA
+- code: SBD
+  numeric: '090'
+  name: Solomon Islands Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SOLOMON ISLANDS
+- code: SCR
+  numeric: '690'
+  name: Seychelles Rupee
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SEYCHELLES
+- code: SDG
+  numeric: '938'
+  name: Sudanese Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SUDAN (THE)
+- code: SEK
+  numeric: '752'
+  name: Swedish Krona
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SWEDEN
+- code: SGD
+  numeric: '702'
+  name: Singapore Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SINGAPORE
+- code: SHP
+  numeric: '654'
+  name: Saint Helena Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA
+- code: SLE
+  numeric: '925'
+  name: Leone
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SIERRA LEONE
+- code: SOS
+  numeric: '706'
+  name: Somali Shilling
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SOMALIA
+- code: SRD
+  numeric: '968'
+  name: Surinam Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SURINAME
+- code: SSP
+  numeric: '728'
+  name: South Sudanese Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SOUTH SUDAN
+- code: STN
+  numeric: '930'
+  name: Dobra
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SAO TOME AND PRINCIPE
+- code: SVC
+  numeric: '222'
+  name: El Salvador Colon
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - EL SALVADOR
+- code: SYP
+  numeric: '760'
+  name: Syrian Pound
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SYRIAN ARAB REPUBLIC
+- code: SZL
+  numeric: '748'
+  name: Lilangeni
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ESWATINI
+- code: THB
+  numeric: '764'
+  name: Baht
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - THAILAND
+- code: TJS
+  numeric: '972'
+  name: Somoni
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TAJIKISTAN
+- code: TMT
+  numeric: '934'
+  name: Turkmenistan New Manat
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TURKMENISTAN
+- code: TND
+  numeric: '788'
+  name: Tunisian Dinar
+  minor_unit_exponent: 3
+  fund: false
+  countries:
+  - TUNISIA
+- code: TOP
+  numeric: '776'
+  name: Pa’anga
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TONGA
+- code: TRY
+  numeric: '949'
+  name: Turkish Lira
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TÜRKİYE
+- code: TTD
+  numeric: '780'
+  name: Trinidad and Tobago Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TRINIDAD AND TOBAGO
+- code: TWD
+  numeric: '901'
+  name: New Taiwan Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TAIWAN (PROVINCE OF CHINA)
+- code: TZS
+  numeric: '834'
+  name: Tanzanian Shilling
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - TANZANIA, UNITED REPUBLIC OF
+- code: UAH
+  numeric: '980'
+  name: Hryvnia
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - UKRAINE
+- code: UGX
+  numeric: '800'
+  name: Uganda Shilling
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - UGANDA
+- code: USD
+  numeric: '840'
+  name: US Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - AMERICAN SAMOA
+  - BONAIRE, SINT EUSTATIUS AND SABA
+  - BRITISH INDIAN OCEAN TERRITORY (THE)
+  - ECUADOR
+  - EL SALVADOR
+  - GUAM
+  - HAITI
+  - MARSHALL ISLANDS (THE)
+  - MICRONESIA (FEDERATED STATES OF)
+  - NORTHERN MARIANA ISLANDS (THE)
+  - PALAU
+  - PANAMA
+  - PUERTO RICO
+  - TIMOR-LESTE
+  - TURKS AND CAICOS ISLANDS (THE)
+  - UNITED STATES MINOR OUTLYING ISLANDS (THE)
+  - UNITED STATES OF AMERICA (THE)
+  - VIRGIN ISLANDS (BRITISH)
+  - VIRGIN ISLANDS (U.S.)
+- code: USN
+  numeric: '997'
+  name: US Dollar (Next day)
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - UNITED STATES OF AMERICA (THE)
+- code: UYI
+  numeric: '940'
+  name: Uruguay Peso en Unidades Indexadas (UI)
+  minor_unit_exponent: 0
+  fund: true
+  countries:
+  - URUGUAY
+- code: UYU
+  numeric: '858'
+  name: Peso Uruguayo
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - URUGUAY
+- code: UYW
+  numeric: '927'
+  name: Unidad Previsional
+  minor_unit_exponent: 4
+  fund: true
+  countries:
+  - URUGUAY
+- code: UZS
+  numeric: '860'
+  name: Uzbekistan Sum
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - UZBEKISTAN
+- code: VED
+  numeric: '926'
+  name: Bolívar Soberano
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - VENEZUELA (BOLIVARIAN REPUBLIC OF)
+- code: VES
+  numeric: '928'
+  name: Bolívar Soberano
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - VENEZUELA (BOLIVARIAN REPUBLIC OF)
+- code: VND
+  numeric: '704'
+  name: Dong
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - VIET NAM
+- code: VUV
+  numeric: '548'
+  name: Vatu
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - VANUATU
+- code: WST
+  numeric: '882'
+  name: Tala
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - SAMOA
+- code: XAD
+  numeric: '396'
+  name: Arab Accounting Dinar
+  minor_unit_exponent: 2
+  fund: true
+  countries:
+  - ARAB MONETARY FUND
+- code: XAF
+  numeric: '950'
+  name: CFA Franc BEAC
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - CAMEROON
+  - CENTRAL AFRICAN REPUBLIC (THE)
+  - CHAD
+  - CONGO (THE)
+  - EQUATORIAL GUINEA
+  - GABON
+- code: XAG
+  numeric: '961'
+  name: Silver
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ11_Silver
+- code: XAU
+  numeric: '959'
+  name: Gold
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ08_Gold
+- code: XBA
+  numeric: '955'
+  name: Bond Markets Unit European Composite Unit (EURCO)
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ01_Bond Markets Unit European_EURCO
+- code: XBB
+  numeric: '956'
+  name: Bond Markets Unit European Monetary Unit (E.M.U.-6)
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ02_Bond Markets Unit European_EMU-6
+- code: XBC
+  numeric: '957'
+  name: Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ03_Bond Markets Unit European_EUA-9
+- code: XBD
+  numeric: '958'
+  name: Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ04_Bond Markets Unit European_EUA-17
+- code: XCD
+  numeric: '951'
+  name: East Caribbean Dollar
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ANGUILLA
+  - ANTIGUA AND BARBUDA
+  - DOMINICA
+  - GRENADA
+  - MONTSERRAT
+  - SAINT KITTS AND NEVIS
+  - SAINT LUCIA
+  - SAINT VINCENT AND THE GRENADINES
+- code: XCG
+  numeric: '532'
+  name: Caribbean Guilder
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - CURAÇAO
+  - SINT MAARTEN (DUTCH PART)
+- code: XDR
+  numeric: '960'
+  name: SDR (Special Drawing Right)
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - INTERNATIONAL MONETARY FUND (IMF) 
+- code: XOF
+  numeric: '952'
+  name: CFA Franc BCEAO
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - BENIN
+  - BURKINA FASO
+  - CÔTE D'IVOIRE
+  - GUINEA-BISSAU
+  - MALI
+  - NIGER (THE)
+  - SENEGAL
+  - TOGO
+- code: XPD
+  numeric: '964'
+  name: Palladium
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ09_Palladium
+- code: XPF
+  numeric: '953'
+  name: CFP Franc
+  minor_unit_exponent: 0
+  fund: false
+  countries:
+  - FRENCH POLYNESIA
+  - NEW CALEDONIA
+  - WALLIS AND FUTUNA
+- code: XPT
+  numeric: '962'
+  name: Platinum
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ10_Platinum
+- code: XSU
+  numeric: '994'
+  name: Sucre
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE"
+- code: XTS
+  numeric: '963'
+  name: Codes specifically reserved for testing purposes
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ06_Testing_Code
+- code: XUA
+  numeric: '965'
+  name: ADB Unit of Account
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP
+- code: XXX
+  numeric: '999'
+  name: The codes assigned for transactions where no currency is involved
+  minor_unit_exponent:
+  fund: false
+  countries:
+  - ZZ07_No_Currency
+- code: YER
+  numeric: '886'
+  name: Yemeni Rial
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - YEMEN
+- code: ZAR
+  numeric: '710'
+  name: Rand
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - LESOTHO
+  - NAMIBIA
+  - SOUTH AFRICA
+- code: ZMW
+  numeric: '967'
+  name: Zambian Kwacha
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ZAMBIA
+- code: ZWG
+  numeric: '924'
+  name: Zimbabwe Gold
+  minor_unit_exponent: 2
+  fund: false
+  countries:
+  - ZIMBABWE

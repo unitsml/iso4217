@@ -1,0 +1,25 @@
+name: validate
+
+on:
+  push:
+    branches: ["*"]
+    paths:
+      - "raw/*"
+      - "data/*"
+      - "scripts/*"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - name: Regenerate + validate (determinism and invariants)
+        run: ruby scripts/convert.rb && ruby scripts/validate.rb
